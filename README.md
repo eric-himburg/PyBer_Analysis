@@ -14,7 +14,7 @@ The line graph below summarizes the total amount of fares by week according to c
 ![Line graph showing weekly fare totals by city type from January to April 2019](analysis/PyBer_fare_summary.png)
 
 ## Summary
-Three business recommendations
+The needs and habits of individuals who participate in ridesharing are clearly different as illustrated in the data found in the results section.  Given these differences, three recommendations follow on how the overall rideshare revenue generated can be increased.  First, in rural areas more drivers should be employed to ensure a ride is available whenever an individual needs one.  It would also be helpful to advertise the availablity of the rideshare service and perhaps provide educational support to those individuals in rural areas who may not be aware of what ridesharing involves.  Second, in suburban areas 
 
 
  
