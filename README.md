@@ -7,7 +7,9 @@ There are several differences in the data when comparing rideshare data between 
 
 ![Table summarizing differences in rideshare data by city type](analysis/ridesharing_summary_table.png)
 
+The line graph below summarizes the total amount of fares by week according to city type from January through April of 2019.  While the total amount per week does vary slightly for each city type, the total fares received by urban areas are consistently greatly than suburban areas, which are consistently greater than rural areas.  
 
+![Line graph showing weekly fare totals by city type from January to April 2019](analysis/PyBer_fare_summary.png)
 
 ## Summary
 Three business recommendations
